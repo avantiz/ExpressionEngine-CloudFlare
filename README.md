@@ -1,3 +1,6 @@
+
+# Como configurar o ExpressionEngine para utilzar o serviço de cache da CloudFlare
+
 Na CloudFlare, podemos utilizar até três regras gratuitamente, mas para nossa sorte o ExpressionEngine precisa apenas de duas.
 
 Vamos a primeira regra:
